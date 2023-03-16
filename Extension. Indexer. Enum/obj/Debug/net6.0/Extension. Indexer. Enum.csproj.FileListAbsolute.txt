@@ -1,0 +1,15 @@
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\bin\Debug\net6.0\Extension. Indexer. Enum.exe
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\bin\Debug\net6.0\Extension. Indexer. Enum.deps.json
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\bin\Debug\net6.0\Extension. Indexer. Enum.runtimeconfig.json
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\bin\Debug\net6.0\Extension. Indexer. Enum.dll
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\bin\Debug\net6.0\Extension. Indexer. Enum.pdb
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\Extension. Indexer. Enum.csproj.AssemblyReference.cache
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\Extension. Indexer. Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\Extension. Indexer. Enum.AssemblyInfoInputs.cache
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\Extension. Indexer. Enum.AssemblyInfo.cs
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\Extension. Indexer. Enum.csproj.CoreCompileInputs.cache
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\Extension. Indexer. Enum.dll
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\refint\Extension. Indexer. Enum.dll
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\Extension. Indexer. Enum.pdb
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\Extension. Indexer. Enum.genruntimeconfig.cache
+C:\Users\KINO\Desktop\StartWork\Extension. Indexer. Enum\Extension. Indexer. Enum\obj\Debug\net6.0\ref\Extension. Indexer. Enum.dll
